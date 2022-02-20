@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "svelte.svelte-vscode",
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "rohit-gohri.format-code-action",
+    "oderwat.indent-rainbow",
+    "llewellynpaintsil.legendary-dark",
+    "esbenp.prettier-vscode",
+    "mechatroner.rainbow-csv",
+    "vscodevim.vim",
+    "vscode-icons-team.vscode-icons"
+  ]
+}
